@@ -20,7 +20,7 @@ A simple CRUD (Create, Read, Update, Delete) To-Do List application using PHP, M
 1. Clone the repository to your local machine.
 
 bash
-git clone https://github.com/your-username/simple-crud-todolist.git
+git clone https://github.com/ferdiansyahP/simple_TodoList.git
 
 2. Import the `todolist.sql` file into your MySQL database.
 
